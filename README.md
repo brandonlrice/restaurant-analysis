@@ -1,4 +1,4 @@
-# Zomato Restaurant Performance Analysis
+# Restaurant Analysis
 
 **[View the live interactive dashboard on Tableau Public →](https://public.tableau.com/views/S7FinalProject01_5/ZomatoRestaurantReport2025)**
 
@@ -35,10 +35,10 @@ Which restaurants drive the most revenue and orders, and what actually explains 
 - `data/restaurant.csv` — restaurant name, city, cuisine, rating, rating count, average cost
 - `data/orders.csv` — order-level records (restaurant ID, order date, sales quantity, sales amount)
 
-This is a practice dataset (Zomato-style food delivery data) used for a TripleTen Business Intelligence program capstone — not live business data.
+This is a practice dataset (restaurant/food delivery data) used for a TripleTen Business Intelligence program capstone — not live business data.
 
 ## Documentation
 
 - [`docs/project-decomposition.pdf`](docs/project-decomposition.pdf) — project plan: business questions, hypotheses, and cleaning plan written before analysis began
 - [`docs/project-writeup.pdf`](docs/project-writeup.pdf) — full dashboard export with narrative and conclusions
-- [`tableau/zomato-restaurant-analysis.twbx`](tableau/zomato-restaurant-analysis.twbx) — packaged Tableau workbook (opens directly in [Tableau Desktop or Tableau Public](https://www.tableau.com/products/public/download), data included)
+- [`tableau/restaurant-analysis.twbx`](tableau/restaurant-analysis.twbx) — packaged Tableau workbook (opens directly in [Tableau Desktop or Tableau Public](https://www.tableau.com/products/public/download), data included)
