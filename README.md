@@ -41,3 +41,4 @@ This is a practice dataset (Zomato-style food delivery data) used for a TripleTe
 
 - [`docs/project-decomposition.pdf`](docs/project-decomposition.pdf) — project plan: business questions, hypotheses, and cleaning plan written before analysis began
 - [`docs/project-writeup.pdf`](docs/project-writeup.pdf) — full dashboard export with narrative and conclusions
+- [`tableau/zomato-restaurant-analysis.twbx`](tableau/zomato-restaurant-analysis.twbx) — packaged Tableau workbook (opens directly in [Tableau Desktop or Tableau Public](https://www.tableau.com/products/public/download), data included)
